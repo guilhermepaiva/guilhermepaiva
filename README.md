@@ -4,10 +4,10 @@ Hi 👋 My name is Guilherme Paiva
 Fullstack Developer 
 -------------------  
 
-I've been coding since I was 15 years old and it is my passion and hobby. Since then I've worked in C, Java, Python, and Android basically in tow companies. At this moment I'm learning about GoLang, just for fun and profit. Right now I'm currently working as a React Native developer.  
+I've been coding since I was 15 years old and it is my passion and hobby. Since then I've worked in C, Java, Python, Javascript and Android. At this moment I'm learning about Rust and Swift, just for fun and profit. Right now I'm currently working as a Staff Software Engineer at CESAR focused on Android and using Kotlin and Java.  
 * 🌍  I'm based in Recife - Brazil 
 * ✉️  You can contact me at [guilhermepaiva9@gmail.com](mailto:guilhermepaiva9@gmail.com) 
-* 🧠  I'm learning Go and Rust
+* 🧠  I'm learning Rust and Swift
 
 <a href="https://www.twitter.com/guilhermepaiva" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/guilhermepaiva?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.github.com/guilhermepaiva" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/guilhermepaiva?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 ### Skills
